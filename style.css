@@ -1,0 +1,19 @@
+/*Global*/
+$font-text: 'Inconsolata', monospace;
+
+.body {
+    font-style: $font-text;
+    h1 {
+        font-style: bold;
+        font-size:large;
+    }
+
+    h2 {
+        font-style: italic;
+        font-size: small;
+    }
+
+    p {
+        font-size: medium;
+    }
+}
