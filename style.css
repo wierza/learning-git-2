@@ -1,8 +1,9 @@
 /*Global*/
-$font-text: 'Inconsolata', monospace;
+
 
 .body {
-    font-family: $font-text;
+    font-family: 'Inconsolata', monospace;
+    
     h1 {
         font-size: 16px; 
     }
